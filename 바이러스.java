@@ -34,6 +34,7 @@ public class 바이러스 {
             arr[b][a] = 1;
         }
 
+
         dfs(1);
         System.out.println(cnt);
     }
